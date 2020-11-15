@@ -31,6 +31,8 @@
 127.0.0.1 basam.info
 127.0.0.1 x-cafevn.org
 127.0.0.1 ttvnol.com
+127.0.0.1 twitter.com
+127.0.0.1 mobile.twitter.com
 127.0.0.1 vnexpress.net
 127.0.0.1 anonymouse.org
 127.0.0.1 vn1975.info
